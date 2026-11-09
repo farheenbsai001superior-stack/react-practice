@@ -116,6 +116,9 @@ function App() {
 
       <div className="ticks"></div>
       <section id="spacer"></section>
+            <footer>
+        <p>Made by Farheen while learning React and Git</p>
+      </footer>
     </>
   )
 }
